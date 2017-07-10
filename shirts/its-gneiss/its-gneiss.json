@@ -1,23 +1,23 @@
 {
-	title: "It's Gneiss",
-	code: "its-gneiss",
-	type: "image",
-	image_link: "./its-gneiss.png",
-	sample_front: "./its-gneiss-sample-indigo.png",
-	sample_back: "./its-gneiss-sample-back.png",
-	styles: [],
-	attributions: [
+	"title": "It's Gneiss",
+	"code": "its-gneiss",
+	"type": "image",
+	"image_link": "./its-gneiss.png",
+	"sample_front": "./its-gneiss-sample-indigo.png",
+	"sample_back": "./its-gneiss-sample-back.png",
+	"styles": [],
+	"attributions": [
 					{
-						type:"photo",author:"Amcyrus2012",author_link:"",
-						 original_link:"https://commons.wikimedia.org/wiki/File:Biotite_Gneiss.JPG",
-						 license:"Creative Commons Attribution 4.0 International",
-						 license_link:"https://creativecommons.org/licenses/by/4.0/deed.en",text:"Biotite Gneiss, Photo by Amcyrus2012"
+						"type":"photo","author":"Amcyrus2012","author_link":"",
+						 "original_link":"https://commons.wikimedia.org/wiki/File:Biotite_Gneiss.JPG",
+						 "license":"Creative Commons Attribution 4.0 International",
+						 "license_link":"https://creativecommons.org/licenses/by/4.0/deed.en","text":"Biotite Gneiss, Photo by Amcyrus2012"
 					},
 					{
-						type:"design",author:"eddie webb",author_link:"https://twitter.com/edwardawebb",text:"Designed by @edwardawebb"
+						"type":"design","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
 					},
 
 				],
-	categories: ["t-shirts","geology","punny"],
-	field: "geologists"
+	"categories": ["t-shirts","geology","punny"],
+	"field": "geologists"
 }
