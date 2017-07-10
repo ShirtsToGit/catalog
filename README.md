@@ -1,6 +1,7 @@
 # Shirts to git
 A collaborative t-shirt press with attribution!
-![Sample attribution on t-shirt](./shirts/its-gniess/its-gniess-sample-back.png)
+
+![Sample attribution on t-shirt](./shirts/its-gneiss/its-gneiss-sample-back.png)
 
 # How's it work?
 The idea is simple, people are funny, printing is expensive.  If we bulk purchase orders we get a lower pritining rate, and great t-shirts we love.
