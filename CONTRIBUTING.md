@@ -3,6 +3,7 @@ The term "Contribution", "Contributing" encompasses new submissions and modifica
 
 # License
 All designs are licensed under [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) . In short this means:
+
 - You have the legal right to grant this license to the work as creator or owner.
 - You will allow others to use and modify this work, requiring only attribution.
 
