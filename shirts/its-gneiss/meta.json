@@ -1,11 +1,12 @@
 {
 	"title": "It's Gneiss",
 	"code": "its-gneiss",
-	"type": "image",
-	"image_link": "./its-gneiss.png",
-	"sample_front": "./its-gneiss-sample-indigo.png",
-	"sample_back": "./its-gneiss-sample-back.png",
-	"styles": [],
+	"type": "t-shirt",
+	"design_front": "./design.svg",
+	"design_back": "./design-back.svg",
+	"sample_front": "./sample.png",
+	"sample_back": "./sample-back.png",
+	"colors": [{"name":"indigo","sizes":["S","M","L","XL"]}],
 	"attributions": [
 					{
 						"type":"photo","author":"Amcyrus2012","author_link":"",
@@ -18,6 +19,6 @@
 					},
 
 				],
-	"categories": ["t-shirts","geology","punny"],
+	"categories": ["geology","punny"],
 	"field": "geologists"
 }
