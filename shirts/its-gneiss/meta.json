@@ -1,12 +1,12 @@
 {
 	"title": "It's Gneiss",
+	"description":"Classic pun for geologists and optimists alike. Don't confuse these mineral types.",
 	"code": "its-gneiss",
-	"type": "t-shirt",
 	"design_front": "./design.svg",
-	"design_back": "./design-back.svg",
-	"sample_front": "./sample.png",
-	"sample_back": "./sample-back.png",
-	"colors": [{"name":"indigo","sizes":["S","M","L","XL"]}],
+	"styles": [
+		{"type":"t-shirt","colors":["white","gold","pale pink"]},
+		{"type":"hoody","colors":["white","gold","pale pink"]}
+				],
 	"attributions": [
 					{
 						"type":"photo","author":"Amcyrus2012","author_link":"",
@@ -19,6 +19,6 @@
 					},
 
 				],
-	"categories": ["geology","punny"],
+	"tags": ["geology","punny"],
 	"field": "geologists"
 }
