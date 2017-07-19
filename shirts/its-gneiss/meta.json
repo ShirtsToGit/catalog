@@ -3,10 +3,6 @@
 	"description":"Classic pun for geologists and optimists alike. Don't confuse these mineral types.",
 	"code": "its-gneiss",
 	"design_front": "./design.svg",
-	"styles": [
-		{"type":"t-shirt","colors":["white","gold","pale pink"]},
-		{"type":"hoody","colors":["white","gold","pale pink"]}
-				],
 	"attributions": [
 					{
 						"type":"photo","author":"Amcyrus2012","author_link":"",

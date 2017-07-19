@@ -15,17 +15,10 @@ Every catalog item has a few basic required files.
 ```
 .
 ├── meta.json # The ley to describe attribution and styles
-├── description.md # Markdown formatted file of shirt used in store front
 ├── design.svg # Raw SVG describing shirt front
-└── sample.png # Web portable image format showing svg rendered on shirt
+└── design.png # Web portable image format showing svg rendered on shirt
 ```
-
-Additionally some designs may add optional files.
-```
-.
-├── design-back.png # If shirt should include additional graphics on back
-└── sample-back.png # Web portable image format showing svg rendered on shirt
-```
+See [our flagship shirt](shirts/git-creative/meta.json) as reference.
 
 ## General Guidelines and Process
 All contributions must be performed as a Pull Request. [Pull Request Etiquette](https://gist.github.com/mikepea/863f63d6e37281e329f8) is a great general guide, though portions are specific to github and/or software, the general princples are well laid out.
