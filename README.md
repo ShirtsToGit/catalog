@@ -1,7 +1,12 @@
 # Shirts to git
-A collaborative t-shirt press with attribution!
+A collaborative t-shirt press with heart!
 
-![Sample attribution on t-shirt](./shirts/its-gneiss/sample-back.png)
+git Creative, give to charity.
+
+- 10% of profit to charity.
+- Bulk purchasing give you lowest prices
+
+![Sample attribution on t-shirt](./shirts/gitshirt/design.png)
 
 # How's it work?
 The idea is simple, people are funny, printing is expensive.  If we bulk purchase orders we get a lower pritining rate, and great t-shirts we love.
