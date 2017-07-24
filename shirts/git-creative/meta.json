@@ -2,8 +2,10 @@
 	"title": "Git Creative",
 	"description":"Flagship shirt for ShirtsToGit.com proudly sports the git and Creative Commons logos.",
 	"code": "git-creative",
+	"styles":["t-shirt","hoody","sticker"],
 	"design_raw": "./design.xcf",
 	"design_print": "./design.png",
+	"charity_level":10,
 	"attributions": [
 					{
 						"id":"git-logo",

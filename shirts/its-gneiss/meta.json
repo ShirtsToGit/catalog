@@ -2,7 +2,10 @@
 	"title": "It's Gneiss",
 	"description":"Classic pun for geologists and optimists alike. Don't confuse these mineral types.",
 	"code": "its-gneiss",
-	"design_front": "./design.svg",
+	"styles":["t-shirt","hoody"],
+	"design_raw": "./design.xcf",
+	"design_print": "./design.png",	
+	"charity_level":10,
 	"attributions": [
 					{
 						"type":"photo","author":"Amcyrus2012","author_link":"",
@@ -15,6 +18,5 @@
 					},
 
 				],
-	"tags": ["geology","punny"],
-	"field": "geologists"
+	"tags": ["geology","punny"]
 }
