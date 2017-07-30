@@ -1,11 +1,11 @@
 {
 	"title": "No Interuptions",
 	"description":"When you just need some heads down time to get your work done, let this json printed on the back of your shirt speak for you.",
-	"code": "no-interuptions",
+	"slug": "no-interuptions",
 	"styles":["t-shirt","hoody"],
 	"design_raw": "./design.xcf",
 	"design_print": "./design.png",	
-	"charity_level":50,
+	"charity":{"percent":50,"name":"Reach Out World Wide","link":"https://twitter.com/ReachOutWW"},
 	"attributions": [
 					{
 						"type":"design","license":"attribution","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"

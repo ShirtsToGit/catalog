@@ -1,11 +1,11 @@
 {
 	"title": "It's Gneiss",
 	"description":"Classic pun for geologists and optimists alike. Don't confuse these mineral types.",
-	"code": "its-gneiss",
+	"slug": "its-gneiss",
 	"styles":["t-shirt","hoody"],
 	"design_raw": "./design.xcf",
 	"design_print": "./design.png",	
-	"charity_level":10,
+	"charity":{"percent":10,"name":"Wounded Warriors Project","link":"https://twitter.com/wwp"},
 	"attributions": [
 					{
 						"type":"photo","author":"Amcyrus2012","author_link":"",

@@ -1,0 +1,26 @@
+{
+	"title": "The Code",
+	"description":"Up, Up, Down, Down, Left, Right, Left, Right, B, A, [Select,] Start! Unlock the super weapons in your games, and help keep the real ones off your streets.  50% of profits to Everytown for Gun Safety Fund ",
+	"slug": "the-code",
+	"store_slug": "get-the-code",
+	"styles":["t-shirt","hoody"],
+	"design_raw": "./design.xcf",
+	"sample": "./sample.png",
+	"design_print": "./design.png",	
+	"charity":{"percent":50,"name":"Reading is Fundamental","link":"http://www.rif.org/"},
+	"attributions": [
+					{
+						"type":"design","license":"attribution","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
+					},
+					{
+						"type":"image","name":"eagle","license":"loyalty free","icon_link":"https://thenounproject.com/icon/575722/","text":"","note":"Royalty free (NounPro) license purchased by Edward Webb"
+					},
+					{
+						"type":"image","name":"d-pad","license":"loyalty free","icon_link":"https://thenounproject.com/icon/937815","text":"","note":"Royalty free (NounPro) license purchased by Edward Webb"
+					},
+					{
+						"type":"image","name":"NES game pad","license":"loyalty free","icon_link":"https://thenounproject.com/icon/949405","text":"","note":"Royalty free (NounPro) license purchased by Edward Webb"
+					},
+				],
+	"tags": ["geek","coding","gaming","konami"]
+}
