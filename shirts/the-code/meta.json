@@ -7,7 +7,7 @@
 	"design_raw": "./design.xcf",
 	"sample": "./sample.png",
 	"design_print": "./design.png",	
-	"charity":{"percent":50,"name":"Reading is Fundamental","link":"http://www.rif.org/"},
+	"charity":{"percent":50,"name":"Everytown Gun Safety Fund","link":"https://everytown.org/"},
 	"attributions": [
 					{
 						"type":"design","license":"attribution","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
