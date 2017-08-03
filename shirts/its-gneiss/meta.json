@@ -8,14 +8,17 @@
 	"charity":{"percent":10,"name":"Wounded Warriors Project","link":"https://twitter.com/wwp"},
 	"attributions": [
 					{
-						"type":"photo","author":"Amcyrus2012","author_link":"",
+						"type":"photo",
+						"name":"Biotite Gneiss",
+						"author":"Amcyrus2012",
+						"author_link":"",
 						 "original_link":"https://commons.wikimedia.org/wiki/File:Biotite_Gneiss.JPG",
 						 "license":"Creative Commons Attribution 4.0 International",
 						 "license_link":"https://creativecommons.org/licenses/by/4.0/deed.en","text":"Biotite Gneiss, Photo by Amcyrus2012"
 					},
 					{
 						"type":"design","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
-					},
+					}
 
 				],
 	"tags": ["geology","punny"]

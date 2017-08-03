@@ -1,7 +1,7 @@
 {
 	"title": "#resist LGBT",
 	"description":"Being united doesn't mean conforming to a single identity.  Resist the idea of conformity, embrace our unity. LGBT colored variation of our standard #resist tee.",
-	"slug": "resist-lgbt-colors",
+	"slug": "lgbt-colors",
 	"styles":["t-shirt","hoody"],
 	"design_raw": "./design.xcf",
 	"design_print": "./design.png",	
@@ -12,7 +12,7 @@
 					},
 					{
 						"type":"image","name":"fist","license":"loyalty free","author":"Jamie Yeo","author_link":"https://thenounproject.com/jamie.yeo.52","text":"","note":"Royalty free license purchased by Edward Webb"
-					},
+					}
 				],
 	"tags": ["resist","lgbt","political"]
 }

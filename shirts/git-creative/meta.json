@@ -1,5 +1,5 @@
 {
-	"title": "Git Creative",
+	"title": "git Creative",
 	"description":"Flagship shirt for ShirtsToGit.com proudly sports the git and Creative Commons logos.",
 	"slug": "git-creative",
 	"styles":["t-shirt","hoody","sticker"],
@@ -8,25 +8,25 @@
 	"charity":{"percent":10,"name":"Wounded Warriors Project","link":"https://twitter.com/wwp"},
 	"attributions": [
 					{
-						"id":"git-logo",
+						"name":"git-logo",
 						"type":"logo",
 						"author":"Jason Long",
 						"author_link":"https://twitter.com/jasonlong",
-						 "original_link":"https://git-scm.com/downloads/logos",
+						 "image_link":"https://git-scm.com/downloads/logos",
 						 "license":"Creative Commons Attribution 3.0 Unported",
 						 "license_link":"https://creativecommons.org/licenses/by/3.0/",
 						 "text":"Git Logo by @JasonLong, CC BY 3.0"
 					},
 					{
-						"id":"cc-logo",
+						"name":"cc-logo",
 						"type":"trademark",
-						 "original_link":"https://creativecommons.org/about/downloads",
+						 "image_link":"https://creativecommons.org/about/downloads",
 						 "license":"Copyright Trademark, no modification",
 						 "license_link":"https://creativecommons.org/policies"
 					},
 					{
 						"type":"design","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
-					},
+					}
 
 				],
 	"tags": ["technology","logos","git","creative commons"]

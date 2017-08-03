@@ -6,14 +6,14 @@
 	"styles":["t-shirt","hoody"],
 	"design_raw": "./design.xcf",
 	"design_print": "./design.png",	
-	"charity":{"percent":50,"name":"Reach Out World Wide","link":"https://twitter.com/ReachOutWW"},
+	"charity":{"percent":50,"name":"YMCA Strong Kids","link":"https://twitter.com/YMCAStrongKids"},
 	"attributions": [
 					{
 						"type":"design","license":"attribution","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
 					},
 					{
 						"type":"image","name":"fist","license":"loyalty free","author":"Jamie Yeo","author_link":"https://thenounproject.com/jamie.yeo.52","text":"","note":"Royalty free license purchased by Edward Webb"
-					},
+					}
 				],
 	"tags": ["resist"]
 }
