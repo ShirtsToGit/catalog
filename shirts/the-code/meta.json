@@ -4,9 +4,9 @@
 	"slug": "the-code",
 	"store_slug": "get-the-code",
 	"styles":["t-shirt","hoody"],
-	"design_raw": "./design.xcf",
-	"sample": "./sample.png",
-	"design_print": "./design.png",	
+	"design_raw": "design.xcf",
+	"sample_image": "sample.png",
+	"design_print": "design.png",	
 	"charity":{"percent":50,"name":"Everytown Gun Safety Fund","link":"https://everytown.org/"},
 	"attributions": [
 					{

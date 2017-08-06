@@ -3,8 +3,8 @@
 	"description":"When you just need some heads down time to get your work done, let this json printed on the back of your shirt speak for you.",
 	"slug": "no-interruptions",
 	"styles":["t-shirt","hoody"],
-	"design_raw": "./design.xcf",
-	"design_print": "./design.png",	
+	"design_raw": "design.xcf",
+	"design_print": "design.png",	
 	"charity":{"percent":50,"name":"Reach Out World Wide","link":"https://twitter.com/ReachOutWW"},
 	"attributions": [
 					{
