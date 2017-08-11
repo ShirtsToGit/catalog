@@ -2,7 +2,7 @@
 	"title": "It's Gneiss",
 	"description":"Classic pun for geologists and optimists alike. Don't confuse these mineral types.",
 	"slug": "its-gneiss",
-	"styles":["t-shirt","hoody"],
+	"styles":[{"name":"t-shirt","price":"18.99"},{"name":"hoodie","price":"38.99"},{"name":"sticker","price":"6.00"}],
 	"design_raw": "design.xcf",
 	"design_print": "design.png",	
 	"charity":{"percent":10,"name":"Wounded Warriors Project","link":"https://twitter.com/wwp"},

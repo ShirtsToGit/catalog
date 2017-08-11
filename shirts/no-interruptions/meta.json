@@ -2,7 +2,7 @@
 	"title": "No Interuptions",
 	"description":"When you just need some heads down time to get your work done, let this json printed on the back of your shirt speak for you.",
 	"slug": "no-interruptions",
-	"styles":["t-shirt","hoody"],
+	"styles":[{"name":"t-shirt","price":"15.99"},{"name":"hoodie","price":"30.99"}],
 	"design_raw": "design.xcf",
 	"design_print": "design.png",	
 	"charity":{"percent":50,"name":"Reach Out World Wide","link":"https://twitter.com/ReachOutWW"},

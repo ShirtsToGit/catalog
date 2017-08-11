@@ -2,7 +2,7 @@
 	"title": "git Creative",
 	"description":"Flagship shirt for ShirtsToGit.com proudly sports the git and Creative Commons logos.",
 	"slug": "git-creative",
-	"styles":["t-shirt","hoody","sticker"],
+	"styles":[{"name":"t-shirt","price":"18.99"},{"name":"hoodie","price":"38.99"},{"name":"sticker","price":"4.00"}],
 	"design_raw": "design.xcf",
 	"design_print": "design.png",
 	"charity":{"percent":10,"name":"Wounded Warriors Project","link":"https://twitter.com/wwp"},

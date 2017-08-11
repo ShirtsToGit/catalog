@@ -3,7 +3,7 @@
 	"description":"Up, Up, Down, Down, Left, Right, Left, Right, B, A, [Select,] Start! Unlock the super weapons in your games, and help keep the real ones off your streets.",
 	"slug": "the-code",
 	"store_slug": "get-the-code",
-	"styles":["t-shirt","hoody"],
+	"styles":[{"name":"t-shirt","price":"14.99"},{"name":"hoodie","price":"24.99"},{"name":"sticker","price":"3.00"}],
 	"design_raw": "design.xcf",
 	"sample_image": "sample.png",
 	"design_print": "design.png",	

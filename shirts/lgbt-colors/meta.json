@@ -1,8 +1,8 @@
 {
-	"title": "#resist LGBT",
+	"title": "#resist in LGBT colors",
 	"description":"Being united doesn't mean conforming to a single identity.  Resist the idea of conformity, embrace our unity. LGBT colored variation of our standard #resist tee.",
 	"slug": "lgbt-colors",
-	"styles":["t-shirt","hoody"],
+	"styles":[{"name":"t-shirt","price":"14.99"},{"name":"hoodie","price":"26.99"}],
 	"design_raw": "design.xcf",
 	"design_print": "design.png",	
 	"charity":{"percent":50,"name":"YMCA Strong Kids","link":"https://twitter.com/YMCAStrongKids"},

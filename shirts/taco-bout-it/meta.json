@@ -1,0 +1,20 @@
+{
+	"title": "Wanna Taco Bout It?",
+	"description":"Nah, it's Nacho problem ;)",
+	"slug": "taco-bout-it",
+	"store_slug": "wtbi",
+	"styles":[{"name":"t-shirt","price":"14.99"},{"name":"hoodie","price":"26.99"},{"name":"sticker","price":"3.00"}],
+	"design_raw": "design.xcf",
+	"sample_image": "sample.png",
+	"design_print": "design.png",	
+	"charity":{"percent":50,"name":"Oxfam America","link":"https://www.oxfamamerica.org/"},
+	"attributions": [
+					{
+						"type":"design","license":"attribution","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
+					},
+					{
+						"type":"image","name":"taco","license":"loyalty free","image_link":"https://thenounproject.com/icon/449259","text":"","note":"Royalty free (NounPro) license purchased by Edward Webb"
+					}
+				],
+	"tags": ["tacos","oxfam","food","punny"]
+}

@@ -3,7 +3,7 @@
 	"description":"Being united doesn't mean conforming to a single idea.  Resist the idea of conformity, embrace our unity.",
 	"slug": "resist",
 	"store_slug": "resist-conformity",
-	"styles":["t-shirt","hoody"],
+	"styles":[{"name":"t-shirt","price":"15.99"},{"name":"hoodie","price":"30.99"}],
 	"design_raw": "design.xcf",
 	"design_print": "design.png",	
 	"charity":{"percent":50,"name":"YMCA Strong Kids","link":"https://twitter.com/YMCAStrongKids"},
