@@ -32,7 +32,6 @@ jobs:
       - run:
           name: Test Publish
           command: |
-            . venv/bin/activate
             python publisher/main.py
   
   
