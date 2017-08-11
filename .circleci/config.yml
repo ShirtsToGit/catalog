@@ -25,8 +25,7 @@ jobs:
           command: |
             git clone https://github.com/ShirtsToGit/wordpress-py publisher
             cd publisher
-            unset PYTHONPATH
-            pip install -r requirements.txt
+            pip install
             cd ..
 
       # run tests!
