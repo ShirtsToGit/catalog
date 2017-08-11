@@ -20,28 +20,14 @@ jobs:
     steps:
       - checkout
 
-      # Download and cache dependencies
-      - restore_cache:
-          keys:
-          - v1-dependencies-{{ checksum "requirements.txt" }}
-          # fallback to using the latest cache if no exact match is found
-          - v1-dependencies-
-
       - run:
           name: install dependencies
           command: |
             git clone https://github.com/ShirtsToGit/wordpress-py publisher
-            python3 -m venv venv
-            . venv/bin/activate
             cd publisher
             pip install -r requirements.txt
             cd ..
 
-      - save_cache:
-          paths:
-            - ./venv
-          key: v1-dependencies-{{ checksum "requirements.txt" }}
-        
       # run tests!
       - run:
           name: Test Publish
