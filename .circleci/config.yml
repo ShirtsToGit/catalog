@@ -25,6 +25,8 @@ jobs:
           command: |
             git clone https://github.com/ShirtsToGit/wordpress-py publisher
             cd publisher
+            virtualenv env
+            env/bin/activate
             pip install --quiet -r requirements.txt
             cd ..
 
@@ -32,6 +34,7 @@ jobs:
       - run:
           name: Test Publish
           command: |
+            env/bin/activate
             python publisher/main.py
   
   
