@@ -35,6 +35,6 @@ jobs:
           name: Test Publish
           command: |
             source publisher/env/bin/activate
-            python publisher/main.py
+            python publisher/main.py test
   
   
