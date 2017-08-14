@@ -45,5 +45,13 @@ jobs:
             pwd
             source publisher/env/bin/activate
             python publisher/main.py test
+
+      - deploy:
+          name: Maybe Deploy
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              source publisher/env/bin/activate
+              python publisher/main.py prod
+            fi
   
   
