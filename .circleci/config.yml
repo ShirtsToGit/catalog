@@ -25,7 +25,8 @@ jobs:
           command: |
             curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
             sudo apt-get install git-lfs
-
+            
+      - run:
           name: install dependencies
           command: |
             git clone https://github.com/ShirtsToGit/wordpress-py publisher
