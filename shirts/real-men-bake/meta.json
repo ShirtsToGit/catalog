@@ -1,0 +1,17 @@
+{
+	"title": "Real Men Bake",
+	"description":"What any partner looks for in a man... well-shaped, hot, and not too doughy. A real man knows the perfect bake.",
+	"slug": "real-men-bake",
+	"styles":[{"name":"t-shirt","price":"14.99"},{"name":"hoodie","price":"24.99"},{"name":"sticker","price":"3.00"}],
+	"design_raw": "design.xcf",
+	"design_print": "design.png",	
+	"attributions": [
+					{
+						"type":"design","license":"attribution","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
+					},
+					{
+						"type":"image","name":"baking cookies","license":"loyalty free","image_link":"https://thenounproject.com/icon/1116646/","note":"Royalty free license purchased by Edward Webb 2017-08-14"
+					}
+				],
+	"tags": ["baking","cooking","men"]
+}
