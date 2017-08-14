@@ -8,6 +8,13 @@ git Creative, give to charity.
 
 ![Sample attribution on t-shirt](./shirts/git-creative/design.png)
 
+# Catalog Status
+Every commit to this repository gets published by CI Pipelines in circle CI.
+This means every accepted PR is immediately available for customers to buy!
+[Prod Catalog](https://shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog/tree/master.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog/tree/master)
+[Test Catalog](https://test.shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog)
+
+
 # How's it work?
 The idea is simple, people are funny, printing is expensive.  If we bulk purchase orders we get a lower pritining rate, and great t-shirts we love.
 

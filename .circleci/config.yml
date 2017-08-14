@@ -47,7 +47,7 @@ jobs:
             python publisher/main.py test
 
       - deploy:
-          name: Maybe Deploy
+          name: Publish to Prod (master only)
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               source publisher/env/bin/activate
