@@ -5,6 +5,7 @@
 	"styles":[{"name":"t-shirt","price":"14.99"},{"name":"hoodie","price":"24.99"},{"name":"sticker","price":"3.00"}],
 	"design_raw": "design.xcf",
 	"design_print": "design.png",	
+	"charity":{"percent":50,"name":"TBD","link":"https://domain.com"},
 	"attributions": [
 					{
 						"type":"design","license":"attribution","author":"eddie webb","author_link":"https://twitter.com/edwardawebb","text":"Designed by @edwardawebb"
