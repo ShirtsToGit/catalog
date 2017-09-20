@@ -1,18 +1,16 @@
+**Status:** [Prod Catalog](https://shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog/tree/master.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog/tree/master)
+[Test Catalog](https://test.shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog)
+
 # Shirts to git
-A collaborative t-shirt press with heart!
+A collaborative t-shirt press with heart! 
 
-git Creative, give to charity.
+[git Creative, give to charity.](https://shirtstogit.com)
 
-- 10% of profit to charity.
+- At least 10% of profit to charity (up to 100%!).
 - Bulk purchasing give you lowest prices
+- All designs availble here, for free, to print anywhere you want(**requires attribution** see [License](./LICENSE.md))
 
 ![Sample attribution on t-shirt](./shirts/git-creative/design.png)
-
-# Catalog Status
-Every commit to this repository gets published by CI Pipelines in circle CI.
-This means every accepted PR is immediately available for customers to buy!
-[Prod Catalog](https://shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog/tree/master.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog/tree/master)
-[Test Catalog](https://test.shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog)
 
 
 # How's it work?
@@ -28,3 +26,9 @@ Wow, that's against the law! Someone cheated and we take that seriously, please 
 
 # How do designs get published?
 With the magic of Continuous Delivery!  Everytime a change is merged into `master` branch our build pipelines will automatically publish the full repository to ShirtsToGIT.com, and they will be (nearly) immediately available for you and others to start placing orders.
+
+
+These badges above and below indicate the current status of our live production and pre-prod test site.
+[Prod Catalog](https://shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog/tree/master.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog/tree/master)
+[Test Catalog](https://test.shirtstogit.com): [![CircleCI](https://circleci.com/gh/ShirtsToGit/catalog.svg?style=svg)](https://circleci.com/gh/ShirtsToGit/catalog)
+
